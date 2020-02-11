@@ -14,6 +14,7 @@ description:         Vault API declarations in terms of servant.
 
 dependencies:
 - base >= 4.7 && < 5
+- servant >= 0.16.2 && < 0.17.0
 
 library:
   source-dirs: src
